@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/texture/Ch03_1001_Diffuse.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/texture/Ch03_1001_Glossiness.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/texture/Ch03_1001_Normal.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/texture/Ch03_1001_Specular.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/texture/Ch03_Body.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/ABP_michelle.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Blueprints/ABP_michelle.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Walk_Run.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/running_slide.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/HN/KAEH485GJ38QLNBBPRB6TH.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Maps/_GENERATED/Intel/Box_7E05CEDA.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Crouched_Walking.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Crouching_Idle.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Falling_Idle.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Fast_Run.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Idle.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Jumping_Down.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Jumping_Up.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/michhelle.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/michhelle_PhysicsAsset.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/michhelle_Skeleton.uasset",
+				"C:/Users/Intel/Documents/Unreal Projects/MyProject2/Content/Characters/Michelle/Animations/Walking.uasset"
+			]
+		}
+	]
+}
